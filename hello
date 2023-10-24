@@ -3,6 +3,4 @@ int main(){
 
   printf("i just wanna die");
 printf("just not today");
-
-return 0;
 }
